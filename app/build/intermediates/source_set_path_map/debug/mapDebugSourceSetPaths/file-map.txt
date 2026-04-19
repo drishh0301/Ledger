@@ -1,0 +1,53 @@
+com.ledger.app-core-ktx-1.13.1-0 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\0a471caa32f902b06333c5a7a4427b21\transformed\core-ktx-1.13.1\res
+com.ledger.app-ui-tooling-preview-release-1 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\0b0c6c1f43785732bd95e8927f73791c\transformed\ui-tooling-preview-release\res
+com.ledger.app-sqlite-framework-2.4.0-2 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\0c917a816d04b4b6535c9a8abed8a215\transformed\sqlite-framework-2.4.0\res
+com.ledger.app-ui-unit-release-3 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\157f6bc226c88d90e0cde76982266c49\transformed\ui-unit-release\res
+com.ledger.app-lifecycle-viewmodel-release-4 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\1717c89ad8567afcab541f5c691567a0\transformed\lifecycle-viewmodel-release\res
+com.ledger.app-animation-core-release-5 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\26a1729ccba39d794c5339819da8e646\transformed\animation-core-release\res
+com.ledger.app-foundation-release-6 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\2ee2ec555de207d02d67030951ffb196\transformed\foundation-release\res
+com.ledger.app-savedstate-ktx-1.2.1-7 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\302696336fd17b7d1d824a3e1f21f153\transformed\savedstate-ktx-1.2.1\res
+com.ledger.app-sqlite-2.4.0-8 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\354306cc9a06a8a9869bd40e7d25c2ff\transformed\sqlite-2.4.0\res
+com.ledger.app-core-1.13.1-9 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\41e28dda87bdbb87988aee27238a864b\transformed\core-1.13.1\res
+com.ledger.app-material-icons-extended-release-10 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\44cd77bad251c70b06f80b7bd6321c0b\transformed\material-icons-extended-release\res
+com.ledger.app-room-runtime-2.6.1-11 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\44e398a822bb1c889e8155f1043a0daf\transformed\room-runtime-2.6.1\res
+com.ledger.app-activity-ktx-1.9.1-12 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\45a9c7c08aebb6a1174a37ad45158e92\transformed\activity-ktx-1.9.1\res
+com.ledger.app-lifecycle-viewmodel-savedstate-2.8.3-13 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\464bd825f48455d4a7982844e7406df2\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.ledger.app-activity-compose-1.9.1-14 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\4e76d4ee7c8bae22d915dcc4e796ef9c\transformed\activity-compose-1.9.1\res
+com.ledger.app-core-runtime-2.2.0-15 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\50727feb8d1d92ebef24227df366299e\transformed\core-runtime-2.2.0\res
+com.ledger.app-foundation-layout-release-16 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\5330afdb20feaef8f10d6b49c09cea5c\transformed\foundation-layout-release\res
+com.ledger.app-lifecycle-viewmodel-ktx-2.8.3-17 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\5e24b13a7fe6c9d0a71c8a5a1e268d9f\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.ledger.app-ui-geometry-release-18 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\658151e42d75fbba63f50288a6f47cc2\transformed\ui-geometry-release\res
+com.ledger.app-emoji2-1.3.0-19 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\65b9f84a8de98f9832ae750200ec0738\transformed\emoji2-1.3.0\res
+com.ledger.app-material-ripple-release-20 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\6a85b734fcd156b2c3078800f313bbb1\transformed\material-ripple-release\res
+com.ledger.app-lifecycle-process-2.8.3-21 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\6a96aa64d35603777d0a623a67084d6a\transformed\lifecycle-process-2.8.3\res
+com.ledger.app-ui-text-release-22 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\6b6169cce64dfd7fb321d3a7a760ee65\transformed\ui-text-release\res
+com.ledger.app-ui-tooling-data-release-23 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\7b15151ec10a7b43989a037c33935393\transformed\ui-tooling-data-release\res
+com.ledger.app-runtime-release-24 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\7e96e5e7e0dea569747263289e22b447\transformed\runtime-release\res
+com.ledger.app-room-ktx-2.6.1-25 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\80caa2f6cd45bfe0dd8e1689099ce2f8\transformed\room-ktx-2.6.1\res
+com.ledger.app-startup-runtime-1.1.1-26 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\82a4d5d596dc4a8b373af33037d2cb6a\transformed\startup-runtime-1.1.1\res
+com.ledger.app-profileinstaller-1.3.1-27 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\8879c90a5680f3cb48faac15d0476f92\transformed\profileinstaller-1.3.1\res
+com.ledger.app-lifecycle-runtime-ktx-release-28 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\957ee202129bcb369a0590b9c83bd7b9\transformed\lifecycle-runtime-ktx-release\res
+com.ledger.app-lifecycle-runtime-release-29 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\96e0582117563a13e8724f917141503a\transformed\lifecycle-runtime-release\res
+com.ledger.app-lifecycle-livedata-core-2.8.3-30 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\a49fe351d76d47c6a7d8e2bae8229479\transformed\lifecycle-livedata-core-2.8.3\res
+com.ledger.app-activity-1.9.1-31 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\aa997dfb6ddec068b17b36c8f4ae5800\transformed\activity-1.9.1\res
+com.ledger.app-customview-poolingcontainer-1.0.0-32 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\b7dae88668321641070b70804b3b1f2f\transformed\customview-poolingcontainer-1.0.0\res
+com.ledger.app-ui-graphics-release-33 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\bc375201eb1edb3fc3bd33bc67cc98aa\transformed\ui-graphics-release\res
+com.ledger.app-ui-tooling-release-34 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\be80afa2e0a64a9ce6d4abbce032eca9\transformed\ui-tooling-release\res
+com.ledger.app-savedstate-1.2.1-35 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\c721f864dc0b4adc7275e9b1bdd1b829\transformed\savedstate-1.2.1\res
+com.ledger.app-runtime-saveable-release-36 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\c78ccf2cc2ce1d2de5e79b7f18c8dedf\transformed\runtime-saveable-release\res
+com.ledger.app-lifecycle-viewmodel-compose-release-37 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\c9f78c84f20eec73b7684af265795ed4\transformed\lifecycle-viewmodel-compose-release\res
+com.ledger.app-ui-release-38 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\ce81dd8b64cef185971c483518d476f9\transformed\ui-release\res
+com.ledger.app-ui-test-manifest-1.6.8-39 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\d10332665e1b8d124a9e9018d549d825\transformed\ui-test-manifest-1.6.8\res
+com.ledger.app-ui-util-release-40 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\d4a74387ff9f6ccaed2f9c605b25e01f\transformed\ui-util-release\res
+com.ledger.app-material3-release-41 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\d702828e6c27d919b48f2d32f4b41674\transformed\material3-release\res
+com.ledger.app-material-release-42 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\d9856381cf7d1dcb5fd8a3a987a5853d\transformed\material-release\res
+com.ledger.app-annotation-experimental-1.4.0-43 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\e00c463381c16ee19e2b8266195ce81b\transformed\annotation-experimental-1.4.0\res
+com.ledger.app-animation-release-44 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\ea5831ad64850f42d9f1e4ab818ec1c6\transformed\animation-release\res
+com.ledger.app-material-icons-core-release-45 C:\Users\ayush\.gradle\caches\9.0-milestone-1\transforms\f30f40b9b2fca33fae1a51c7573ddc65\transformed\material-icons-core-release\res
+com.ledger.app-pngs-46 C:\Users\ayush\Desktop\College Work\Ledger_MAD\Ledger_Cleaned\LedgerFull\app\build\generated\res\pngs\debug
+com.ledger.app-resValues-47 C:\Users\ayush\Desktop\College Work\Ledger_MAD\Ledger_Cleaned\LedgerFull\app\build\generated\res\resValues\debug
+com.ledger.app-packageDebugResources-48 C:\Users\ayush\Desktop\College Work\Ledger_MAD\Ledger_Cleaned\LedgerFull\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.ledger.app-packageDebugResources-49 C:\Users\ayush\Desktop\College Work\Ledger_MAD\Ledger_Cleaned\LedgerFull\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.ledger.app-debug-50 C:\Users\ayush\Desktop\College Work\Ledger_MAD\Ledger_Cleaned\LedgerFull\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.ledger.app-debug-51 C:\Users\ayush\Desktop\College Work\Ledger_MAD\Ledger_Cleaned\LedgerFull\app\src\debug\res
+com.ledger.app-main-52 C:\Users\ayush\Desktop\College Work\Ledger_MAD\Ledger_Cleaned\LedgerFull\app\src\main\res
