@@ -41,7 +41,7 @@ fun LoginScreen(viewModel: LedgerViewModel) {
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.spacedBy(0.dp)
         ) {
-            Text("ledger", color = TextColor, fontSize = 40.sp, fontWeight = FontWeight.ExtraBold)
+            Text("Ledger", color = TextColor, fontSize = 40.sp, fontWeight = FontWeight.ExtraBold)
             Text(
                 if (isSignUp) "Create your account" else "Welcome back",
                 color = MutedColor, fontSize = 14.sp,

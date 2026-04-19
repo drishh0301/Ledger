@@ -44,7 +44,7 @@ fun HomeScreen(
             horizontalArrangement = Arrangement.SpaceBetween,
             verticalAlignment = Alignment.CenterVertically
         ) {
-            Text("ledger", color = TextColor, fontSize = 22.sp, fontWeight = FontWeight.ExtraBold)
+            Text("Ledger", color = TextColor, fontSize = 22.sp, fontWeight = FontWeight.ExtraBold)
             Box(
                 modifier = Modifier.size(38.dp).clip(CircleShape)
                     .background(Brush.linearGradient(listOf(PurpleColor, BlueColor))),
